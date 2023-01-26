@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1{
+    color: goldenrod
+}
+
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
